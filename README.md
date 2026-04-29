@@ -44,7 +44,7 @@ performance across 5 departments.
 - Dashboard Design
 
 ## Files Included
+- screenshots
 - Company_Finance_Dashboard.pbix
-- Dashboard Screenshots
 - README.md
   
