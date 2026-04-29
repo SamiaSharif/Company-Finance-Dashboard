@@ -42,16 +42,6 @@ performance across 5 departments.
 - Data Visualization
 - KPI Reporting
 - Dashboard Design
-## Dashboard Preview
-
-### Report Cover
-![Page 1](screenshots/page1.png)
-
-### Executive Summary
-![Page 2](screenshots/page2.png)
-
-### Expense Analysis
-![Page 3](screenshots/page2.png)
 
 ## Files Included
 - Company_Finance_Dashboard.pbix
