@@ -1,2 +1,50 @@
-# Company-Finance-Dashboard
-Developed an interactive 2-page Finance Dashboard in Power BI to monitor company financial performance across revenue, expenses, profitability, and budget variance.
+# Company Finance Dashboard
+A Power BI dashboard analyzing annual financial 
+performance across 5 departments.
+
+## Objective
+- Track key financial KPIs
+- Compare departmental performance
+- Analyze monthly financial trends
+- Monitor budget efficiency
+- Support management decision-making
+
+ ## Dashboard Features
+
+### Page 1: Report Cover
+
+### Page 2: Executive Summary
+- Total Revenue
+- Total Expenses
+- Net Profit
+- Profit Margin %
+- Budget Variance
+- Monthly Revenue vs Expenses Trend
+- Monthly Net Profit
+- Department Expense Breakdown
+
+### Page 3: Expense Analysis
+- Budget Variance by Department
+- Net Profit by Department
+- Monthly Profit Trend by Department
+- Total Expenses by Department
+
+  ## Key Insights
+- December recorded highest revenue and profit.
+- Sales department generated highest revenue and profit.
+- HR had lowest revenue and expenses.
+- Sales showed negative budget variance in second half.
+- Marketing and Operations managed budget efficiently.
+
+  ## Tools Used
+- Power BI
+- DAX
+- Data Visualization
+- KPI Reporting
+- Dashboard Design
+
+## Files Included
+- Company_Finance_Dashboard.pbix
+- Dashboard Screenshots
+- README.md
+  
